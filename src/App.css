@@ -1,0 +1,12 @@
+.movie {
+  max-width: 300px;
+}
+
+.movie:hover {
+  scale: 1.03;
+  transition: all 0.3s;
+}
+
+.movie-detail {
+  height: 90vh;
+}
